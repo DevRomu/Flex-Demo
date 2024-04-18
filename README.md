@@ -8,4 +8,4 @@ This website is made from the tutoral : "Flex Boses Crash Course 2022" : https:/
 
 ## Extras:
 
-More info and images are posted on my portfolio website : https://www.codewithro.dev/blog/the-basic-of-flex-boxes
+More info and images are posted on my portfolio website : https://www.codewithro.dev/
